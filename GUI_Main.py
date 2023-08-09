@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Jan 31 11:10:14 2023
-
-@author: PC_POISON
-"""
-
+s
 from tkinter import *
 import tkinter as tk
 
